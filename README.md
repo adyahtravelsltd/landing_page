@@ -77,12 +77,6 @@ Clone this project and use it to create your own [Next.js](https://nextjs.org) p
   </tr>
 </table>
 
-### DEMO
-
-[![Nextjs Landing Page Template Screenshot](public/assets/images/nextjs-landing-page-screenshot.png?raw=true)](https://creativedesignsguru.com/demo/nextjs-landing-page/)
-
-Check out our [live demo](https://creativedesignsguru.com/demo/nextjs-landing-page/).
-
 ### Features
 
 Developer experience first:

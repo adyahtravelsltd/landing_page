@@ -1,13 +1,14 @@
 import { VerticalFeatureRow } from '../feature/VerticalFeatureRow';
 import { Section } from '../layout/Section';
 
-const VerticalFeatures = () => (
+const Services = () => (
   <Section
-    title="Your title here"
+    title="Services"
+    id="service"
     description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus malesuada nisi tellus, non imperdiet nisi tempor at."
   >
     <VerticalFeatureRow
-      title="Your title here"
+      title="Rental"
       description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
       image="/assets/images/feature.svg"
       imageAlt="First feature alt text"
@@ -28,4 +29,4 @@ const VerticalFeatures = () => (
   </Section>
 );
 
-export { VerticalFeatures };
+export { Services };
